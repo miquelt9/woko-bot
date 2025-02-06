@@ -1,5 +1,5 @@
 # Woko bot
-Finding a place to stay is not easy and if you are thinking in Zürich (Switzerland), the **prices go crazy**. Fortunately there's a good option for local students (e.g.: ETH) and people willing to stay in Zürich during the summer [Woko](https://www.woko.ch/).       
+Finding a place to stay is not easy and if you are thinking in Zürich (Switzerland), the **prices go crazy**. Fortunately there's a good option for local students (e.g.: ETH) and people willing to stay in Zürich during the summer [Woko.ch](https://www.woko.ch/).       
       
 However, it is still a quite competitive place to get a room. That's the reason I decided to develop this little Telegram bot that will notify you whenever a [room in Zürich](https://www.woko.ch/en/zimmer-in-zuerich) is available, so **you can be the first** person to contact.       
       
@@ -15,3 +15,11 @@ python3 woko_bot.py &
 ```
 5. Done!
 
+---
+
+This bot was created in 2023, it may be possible that issues arise with time.     
+It would be great if you (the reader behind the screen) wants to contribute to this bot! *specially by writing tests xd
+
+Similar projects:
+- https://github.com/bskdany/WokoWGZScraperBot
+- https://github.com/AnirudhhRamesh/Woko-Bot/tree/main
